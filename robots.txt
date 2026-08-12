@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-47xuyw.indocuan.online/sitemap.xml
